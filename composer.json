@@ -1,7 +1,6 @@
 {
 	"name"				: "smdgithub/twig-language-extensions-for-joomla",
 	"type"				: "library",
-	"version"			: "1.0.0"
 	"description"		: "A twig extension for joomla language to work with Twig V2",
 	"keywords"			: ["Joomla", "Language", "Twig"],
 	"homepage"			: "https://github.com/smdgithub/twig-language-extensions-for-joomla",
