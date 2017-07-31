@@ -1,0 +1,32 @@
+{
+	"name"				: "smdgithub/twig-language-extensions-for-joomla",
+	"type"				: "library",
+	"version"			: "1.0.0"
+	"description"		: "A twig extension for joomla language to work with Twig V2",
+	"keywords"			: ["Joomla", "Language", "Twig"],
+	"homepage"			: "https://github.com/smdgithub/twig-language-extensions-for-joomla",
+	"license"			: ["MIT", "GPL-2.0+"],
+	"authors" 			: [
+		{
+			"name"				: "smd",
+			"email"				: "smd@gmx.com"
+		}
+	],
+
+	"require"			: {
+		"php"				: ">=5.3.0",
+		"twig/twig"			: "~2.0",
+		"joomla/language"	: "~1.1"
+	},
+
+	"autoload"			: {
+		"psr-4"				: {
+			"TwigJoomla\\Extension\\": "src/"
+		}
+	},
+
+	"minimum-stability"	: "dev",
+
+	"archive": {
+	}
+}
