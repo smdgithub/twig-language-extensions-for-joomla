@@ -14,3 +14,4 @@ $twig->addExtension(new \TwigJoomla\Extension\TextExtension);
 $template = $twig->loadTemplate('test.twig');
 echo $template->render();
 ```"# twig-language-extensions-for-joomla" 
+"# twig-language-extensions-for-joomla" 
